@@ -1,3 +1,4 @@
+央视,#genre#
 CCTV1综合HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV2财经HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
 CCTV3综艺HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226338/index.m3u8
@@ -14,7 +15,7 @@ CCTV12社会与法HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index
 CCTV13新闻HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV14少儿HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 CCTV15音乐HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-CCTV16奥林匹克[测试],http://39.134.144.6:8089/PLTV/88888888/224/3221226475/index.m3u8
+CCTV4K 17M2160HDR,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 CCTV17农业农村HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV4欧洲HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226318/index.m3u8
 CCTV4美洲HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
@@ -24,6 +25,11 @@ CGTN-西班牙语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226324/index.
 CGTN-俄语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226326/index.m3u8
 CGTN-法语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226399/index.m3u8
 CGTN-阿拉伯语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226405/index.m3u8
+山东,#genre#
+潍坊新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
+潍坊都市HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
+潍坊奎文,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001027/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
+昌邑新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001083/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 山东卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东教育HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东齐鲁HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226045/index.m3u8
@@ -34,6 +40,11 @@ CGTN-阿拉伯语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226405/index.
 山东文旅HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225802/index.m3u8
 山东农科HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
 山东少儿HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226195/index.m3u8
+CHC电影,#genre#
+CHC动作电影 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+CHC家庭影院 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+CHC影迷电影 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+卫视,#genre#
 湖南卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
 浙江卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
 东方卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
@@ -97,11 +108,7 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 济阳综合HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225936/index.m3u8
 平阴综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226197/index.m3u8
 商河综合HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226266/index.m3u8
-潍坊新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
-潍坊都市HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
-潍坊奎文,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001027/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 诸城新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
-昌邑新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001083/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 昌乐新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001033/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 寿光新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 寿光蔬菜HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001045/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
