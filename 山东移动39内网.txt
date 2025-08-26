@@ -233,7 +233,7 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 东营新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221225935/index.m3u8
 东营公共,http://39.134.144.6:8089/PLTV/88888888/224/3221225908/index.m3u8
 广饶新闻HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226046/index.m3u8
-历年春晚,#genre#
+春晚,#genre#
 1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -277,4 +277,5 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
 
