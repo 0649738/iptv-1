@@ -1,4 +1,4 @@
-#央视,#genre#
+央视,#genre#
 CCTV1综合HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV2财经HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
 CCTV3综艺HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226338/index.m3u8
@@ -25,7 +25,7 @@ CGTN-西班牙语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226324/index.
 CGTN-俄语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226326/index.m3u8
 CGTN-法语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226399/index.m3u8
 CGTN-阿拉伯语HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226405/index.m3u8
-#山东,#genre#
+山东,#genre#
 潍坊新闻HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 潍坊都市HD,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 潍坊奎文,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001027/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
@@ -49,11 +49,11 @@ CCTV14少儿HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 优漫卡通,http://39.134.144.6:8089/PLTV/88888888/224/3221225970/index.m3u8
 哈哈炫动,http://39.134.144.6:8089/PLTV/88888888/224/3221225972/index.m3u8
 济南少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225979/index.m3u8
-#影院,#genre#
+影院,#genre#
 CHC动作电影 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
-#卫视,#genre#
+卫视,#genre#
 湖南卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
 浙江卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
 东方卫视HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
@@ -233,7 +233,7 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 东营新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221225935/index.m3u8
 东营公共,http://39.134.144.6:8089/PLTV/88888888/224/3221225908/index.m3u8
 广饶新闻HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226046/index.m3u8
-#春晚,#genre#
+春晚,#genre#
 1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -277,7 +277,7 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#港澳台频道
+港澳台频道,#genre#
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文高清
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯高清
@@ -475,6 +475,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台频道",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
 
 
 
